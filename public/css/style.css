@@ -1,0 +1,28 @@
+html {
+    background: url("../img/wrigley_field_vintage.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.logo-div {
+    background-color: transparent;
+    border: 2px solid rgb(14, 51, 134);
+    border-radius: 4px;
+    box-shadow: 2px 2px #CC3433;
+}
+
+.text {
+    background-color: #36454F;
+    color:white;
+    opacity: 1;
+    text-align: center;
+}
